@@ -2,7 +2,6 @@
 
 [![Eu](https://img.shields.io/badge/SOBRE_MIM-000?style=for-the-badge)](https://nicolasyakuzabr.github.io/Sobre_mim/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Nicolas125xy/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=557981100977)
 [![GMAIL](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nicolasadriel32@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasYakuzaBr&theme=dracula&show_icons=true) 
