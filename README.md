@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Nicolas125xy/)
 [![GMAIL](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nicolasadriel32@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasYakuzaBr&theme=dracula&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasYakuzaBr&hide_progress=true&theme=dracula&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas125xy&theme=dracula&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas125xy&hide_progress=true&theme=dracula&show_icons=true)
 
 
 ## Linguagens que eu mais uso 🐱‍💻
